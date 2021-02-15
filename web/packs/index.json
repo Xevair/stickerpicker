@@ -1,6 +1,7 @@
 {
   "packs": [
-    "Vigna.json"
+    "Vigna.json",
+    "emotes.json"
   ],
   "homeserver_url": "https://halogen.city"
 }
